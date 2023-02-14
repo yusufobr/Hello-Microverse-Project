@@ -47,16 +47,15 @@ After you're finished please remove all the comments and instructions!
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 Hello Microverse Project <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+> This is a simple web project that consists of an HTML file containing a single Header "Hello Microverse", and a CSS file that applies the color of tag.
 
-**[your_project__name]** is Hello Microverse Project
+**Project Name** is Hello Microverse Project
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -93,7 +92,6 @@ After you're finished please remove all the comments and instructions!
 
 - **[Added Html]**
 - **[Added Css]**
-- **[key_feature_3]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -193,21 +191,14 @@ Example:
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
+## 👥 Author <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
+👤 **Author**
 
-👤 **Author1**
+- GitHub: [@yusufobr](https://github.com/yusufobr)
+- Twitter: [@OubariY](https://twitter.com/OubariY)
+- LinkedIn: [Youssef OUBARI](https://www.linkedin.com/in/youssef-oubari-370451147)
 
-- GitHub: [@githubhandle](https://github.com/yusufobr)
-- Twitter: [@twitterhandle](https://twitter.com/OubariY)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/youssef-oubari-370451147)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -215,11 +206,8 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
-
 - [ ] **[Added New Html]**
-- [ ] **[Added New Html]**
-- [ ] **[new_feature_3]**
+- [ ] **[Added New CSS]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -253,21 +241,6 @@ I would like to thank...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FAQ (optional) -->
-
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
